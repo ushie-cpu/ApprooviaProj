@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkPlugFormAPI.View", "SparkPlugFormAPI\SparkPlugFormAPI.View.csproj", "{AC4708F8-87CF-44DC-A034-CE543DFADB31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkPlugFormAPI.Core", "SparkPlugFormAPI.Core\SparkPlugFormAPI.Core.csproj", "{58C1319F-876C-460A-A6F6-B8634A85EF2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkPlugFormAPI.Models", "SparkPlugFormAPI.Models\SparkPlugFormAPI.Models.csproj", "{421FDAA8-97F8-4C2A-8CE1-5EBF2667BE5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4708F8-87CF-44DC-A034-CE543DFADB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4708F8-87CF-44DC-A034-CE543DFADB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4708F8-87CF-44DC-A034-CE543DFADB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4708F8-87CF-44DC-A034-CE543DFADB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C1319F-876C-460A-A6F6-B8634A85EF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C1319F-876C-460A-A6F6-B8634A85EF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C1319F-876C-460A-A6F6-B8634A85EF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C1319F-876C-460A-A6F6-B8634A85EF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421FDAA8-97F8-4C2A-8CE1-5EBF2667BE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421FDAA8-97F8-4C2A-8CE1-5EBF2667BE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421FDAA8-97F8-4C2A-8CE1-5EBF2667BE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421FDAA8-97F8-4C2A-8CE1-5EBF2667BE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BB65CC-A759-4D0C-958C-CC5674CE34DF}
+	EndGlobalSection
+EndGlobal
